@@ -1,1 +1,1 @@
-explored js functionalities by creating Spotify Home clone
+# explored js functionalities by creating Spotify Home clone
